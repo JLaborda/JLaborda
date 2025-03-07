@@ -8,20 +8,25 @@ I'm a **PhD in Artificial Intelligence** with a strong background in **Bayesian 
 - **Cloud & DevOps:** AWS, Docker, MongoDB, CI/CD, Github Actions,...   
 - **Data Science:** Pandas, NumPy, Scikit-learn, ETL,...  
 
-### :man_scientist: Experience
-- **AI PhD Student Researcher:** I was a PhD student doing my thesis about Bayesian Networks (2019-2025)
-- **University Professor Associate:** During my PhD, I prepared and gave **160 hours** of classes regarding Java Programming, Programming Methodology, and Concurrency in Java. (2019-2023)
+### :man_scientist: Work Experience
+- [2019-2025] **AI PhD Student Researcher:** I was a PhD student doing my thesis about Bayesian Networks 
+- [2019-2023] **University Professor Associate:** During my PhD, I prepared and gave **160 hours** of classes regarding Java Programming, Programming Methodology, and Concurrency in Java. 
 
 ### :student: Education
-- **PhD in Artificial Intelligence:** PhD in AI from the University of Castilla-La Mancha. (2019-2025)
-- **Master's Degree of Investigation in Artificial Intelligence:** MD of Investigation AI from the University of Menendez Pelayo (2018-2019) [link](https://www.aepia.org/master-en-ia/). 
-- **Master's Degree in Data Science and Cloud Data Engineering**: MD CIDAEN from the University of Castilla-La Mancha. (2020-2021) [link](https://www.cidaen.es/).
-- **Bachelor's Degree in Computer Engineering specializing in Computer Science**: University of Castilla-La Mancha. (2014-2018).
+- [2019-2025] **PhD in Artificial Intelligence:** PhD in AI from the University of Castilla-La Mancha. 
+- [2018-2019] **Master's Degree of Research in Artificial Intelligence:** MD of Research in AI from the University of Menendez Pelayo. [link](https://www.aepia.org/master-en-ia/). 
+- [2020-2021] **Master's Degree in Data Science and Scalable Applications in the Cloud**: MD CIDAEN from the University of Castilla-La Mancha. [link](https://www.cidaen.es/).
+- [2014-2018] **Bachelor's Degree in Computer Engineering specializing in Computer Science**: University of Castilla-La Mancha.
   
 ### 🏆 Achievements  
-- Published **three Q1 journal papers** on Bayesian Networks and Distributed Learning  
+- Published **two Q1 journal papers** on Bayesian Networks and Distributed Learning  
 - Developed **pGES**, a novel algorithm for Bayesian Network structure learning  
-- Implemented an **MCTS-based search** to improve Bayesian network structures  
+- Implemented an **MCTS-based search** algorithm to improve the quality of Bayesian Network structures
+
+### 🔬 Published Papers
+- [2024] Parallel structural learning of Bayesian networks: Iterative divide and conquer algorithm based on structural fusion. Knowledge-Based Systems. IF: 7.2. Ranking JCR: Q1. [link](https://www.sciencedirect.com/science/article/pii/S095070512400474X?via%3Dihub)
+- [2024] Distributed fusion-based algorithms for learning high-dimensional Bayesian Networks: Testing ring and star topologies. International Journal of Approximate Reasoning. IF: 3.2. Ranking JCR: Q2. [link](https://www.sciencedirect.com/science/article/pii/S0888613X24001890?via%3Dihub)
+- [2021] Efficient and accurate structural fusion of Bayesian networks. Information Fusion. IF: 17.564. Ranking JCR: Q1. [link](https://www.sciencedirect.com/science/article/pii/S156625352030364X?via%3Dihub)
 
 ### 📂 Featured Projects  
 - **pGES Algorithm:** A scalable approach to Bayesian Network learning that combines distributed learning and Bayesian Network Fusion. [link](https://github.com/JLaborda/ParallelBNs)
