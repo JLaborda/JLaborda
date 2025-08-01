@@ -22,6 +22,7 @@ I'm a **PhD in Artificial Intelligence** with a strong background in **Bayesian 
 - Published **two Q1 journal papers** on Bayesian Networks and Distributed Learning  
 - Developed **pGES**, a novel algorithm for Bayesian Network structure learning  
 - Implemented an **MCTS-based search** algorithm to improve the quality of Bayesian Network structures
+- Deployed a CI/CD pipeline for the **consensusBN** library that implements Bayesian Network Structure Fusion algorithms that create a Bayesian Network consensus for a set of Bayesian Networks. 
 
 ### 🔬 Published Papers
 - [2024] Parallel structural learning of Bayesian networks: Iterative divide and conquer algorithm based on structural fusion. Knowledge-Based Systems. IF: 7.2. Ranking JCR: Q1. [link](https://www.sciencedirect.com/science/article/pii/S095070512400474X?via%3Dihub)
@@ -32,10 +33,11 @@ I'm a **PhD in Artificial Intelligence** with a strong background in **Bayesian 
 - **pGES Algorithm:** A scalable approach to Bayesian Network learning that combines distributed learning and Bayesian Network Fusion. [link](https://github.com/JLaborda/ParallelBNs)
 - **Circular/Ring Greedy Equivalence Search (cGES):** A different topological approach to Bayesain Network learning that combines distributed learning and Bayesian Network Fusion. [link](https://github.com/JLaborda/cges)
 - **Monte Carlo Tree Search for Bayesian Networks:** Enhancing network structure optimization with MCTS. [link](https://github.com/JLaborda/MCTS-BN)
+- **consensusBN**: A java library for Bayesian Network Fusion. [link](https://github.com/UCLM-SIMD/consensusBN/tree/main)
 
 ### 📫 Let's connect!  
 - LinkedIn: [Jorge Daniel Laborda](www.linkedin.com/in/jorge-daniel-laborda-sicilia)  
-- GitHub: [@JLaborda](https://github.com/JLaborda)  
+- GitHub: [@JLaborda](https://github.com/JLaborda)
 
 ---
 
